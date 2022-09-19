@@ -1,5 +1,5 @@
 # Sobre nós
-- 👋 Olá,Nosso nome é @Mariza.Christiano-1a
+- 👋 Olá,Nosso nome é **@Mariza.Christiano-1a**
 - 😎 Meu email é Mariza.Miranda@escola.pr.gov.br
 - 👀 Estamos interessados em aprender a programar novas linguagens 
 - 🌱 Estamos aprendendo ás linguagens JavaScript e Scratch
